@@ -1,0 +1,142 @@
+#section{
+	background-color: #ffffff;
+	width: 50%;
+}
+#OA{
+margin-left: 15%;
+color: #550000;
+font-size: 20px;
+font-weight: bold;
+}
+#LSP{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#LIE{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#LMCP{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#LIN{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#LICC{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#LHA{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#LG{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#LEL{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#LDA{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#LCP{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#LAN{
+	margin-left: 3%;
+	font-family: "Droid Sans";
+}
+#textoSection{
+	color: #556633;
+	font-family: "Norasi";
+	font-size: 15px;
+	margin-left: 5%;
+	background-color: #ffffff;
+	background-size: 1000px;
+}
+#textoActividades{
+	color: #ffffff;
+	margin-left: 30%;
+	background-size: 100%;
+	font-family: "Droid Sans";
+	font-size: 20px;
+
+}
+body{
+	background-color: #f0f0f0;
+
+}
+#linkcontacto{
+	margin-left: 12%;
+}
+#header{
+		
+	margin-top: 1%;
+	margin-left: -1.7%;
+	margin-right: -.5%;
+	background-color: #999002;
+	background-size: 50%;
+
+}
+fieldset{
+	width: 50%;
+	margin-left: 25%;
+	background-color: #ffffff
+
+}
+#logoUDG{
+margin-left: 2%;
+}
+#logoCutonala{
+	width: 30%;
+	background-color: #ffffff;
+}
+#sede{
+	margin-left: 33%;
+	margin-top: -7%;
+}
+#sedeSantaPaula{
+margin-left: 33%;
+
+}
+#sedeSillitas{
+	margin-left: 33%;
+	
+}
+#footer{
+		margin-top: 70%;
+	margin-left: -1.7%;
+	margin-right: -.5%;
+	background-color: #ffffff;
+	background-size: 30%;
+}
+#logoMoodle{
+	margin-left: 30%;
+}
+
+#btnaceptar{
+	background-color: #556633;
+	color: #ffffff;	
+	margin-top: -5%;
+}
+#lblcontra{
+	color: #556633;	
+	margin-top: -5%;
+}
+#logocuton{
+	width: 10%;
+	margin-left: 4%;
+}
+#lblusu{
+	margin-top: -5%;
+	margin-left: 3%;
+	color: #556633;
+	
+	
+}
