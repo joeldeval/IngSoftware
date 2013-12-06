@@ -1,0 +1,156 @@
+#section{
+	background-color: #ffffff;
+	width: 50%;
+}
+#textoSection{
+	color: #556633;
+	font-family: "Norasi";
+	font-size: 15px;
+	margin-left: 5%;
+	background-color: #ffffff;
+	background-size: 1000px;
+}
+#textoActividades{
+	color: #ffffff;
+	margin-left: 30%;
+	background-size: 100%;
+	font-family: "Droid Sans";
+	font-size: 20px;
+
+}
+body{
+	background-color: #f0f0f0;
+
+}
+
+table{
+	margin-left: 30%;
+}
+#header{
+		
+	margin-top: 1%;
+	margin-left: -1.7%;
+	margin-right: -.5%;
+	background-color: #999002;
+	background-size: 50%;
+
+}
+fieldset{
+	width: 50%;
+	margin-left: 25%;
+	background-color: #ffffff
+
+}
+#aside{
+	margin-top: 2%;
+}
+#logoUDG{
+margin-left: 2%;
+}
+#logoCutonala{
+	width: 30%;
+	background-color: #ffffff;
+}
+#sede{
+	margin-left: 33%;
+	margin-top: -7%;
+}
+#sedeSantaPaula{
+margin-left: 33%;
+
+}
+
+#sedeSillitas{
+	margin-left: 33%;
+	
+}
+#carreras{
+	margin-top: 1%;
+}
+#abajo{
+	width: 95%;
+	margin-left: 1%;
+}
+#footer{
+		margin-top: 2%;
+	margin-left: -1.7%;
+	margin-right: -.5%;
+	background-color: #ffffff;
+	background-size: 30%;
+}
+#logoMoodle{
+	margin-left: 30%;
+}
+
+#btnaceptar{
+	background-color: #556633;
+	color: #ffffff;	
+	margin-top: -5%;
+}
+#lblcontra{
+	color: #556633;	
+	margin-top: -5%;
+
+}
+#lblmaestro{
+	color: #778F47;
+	margin-top: -5%;
+	font-size: 30px;
+	font-family: georgia;
+}
+#lblBienvenido{
+	color: #778F47;
+font-size: 20px;
+	font-family: Purisa;
+	margin-left: 30%;
+}
+#logocuton{
+	width: 15%;
+	margin-left: 4%;
+}
+#lblusu{
+	margin-top: -5%;
+	margin-left: 3%;
+	color: #556633;	
+}
+#error{
+	margin-left: 15%;
+	margin-top: 5%;
+	color: #556633;
+	font-size: 70px;
+}
+#redireccionando{
+	margin-left: 10%;
+	margin-top: 1%;
+	color: #556633;
+	font-size: 40px;
+}
+#centrouniversitario{
+	margin-left: 5%;
+	margin-top: 1%;
+}
+#ayudanos{
+	margin-left: 25%;
+	width: 50%;
+}
+#facebook{
+	margin-left: -3%;
+	width: 45%;
+	margin-top: 1%;
+}
+#user{
+	width: 50%;
+	margin-left: 15%;
+}
+#cerrarsesion{
+	margin-left: 1%;
+	width: 9%;
+	margin-top: -33%;
+}
+#cabes{
+	margin-left: 9%;
+margin-top: -4%;
+}
+th{
+	width: 100%;
+}
